@@ -2,6 +2,7 @@
 
 This repo is the official implementation for: [Learning with Explicit Shape Priors for Medical Image Segmentation](https://arxiv.org/abs/2303.17967)
 
+Please refer to https://github.com/AlexYouXin/Explicit-Shape-Priors
 
 # Dataset Link
 [BraTS 2020: Multimodal Brain Tumor Segmentation Challenge 2020](https://www.med.upenn.edu/cbica/brats2020/data.html)  
